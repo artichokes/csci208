@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/recursion/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/recursion/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/stack/calculator.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/stack/Stack.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/stack/reverse.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/stack/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/stack/Node.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/card_games/Card.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/card_games/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/card_games/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/card_games/test.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/card_games/Deck.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/card_games/Card.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/card_games/War.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/card_games/BlackJack.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/card_games/War.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/card_games/Deck.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/card_games/BlackJack.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/inheritance/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/inheritance/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/linked_list/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/linked_list/LinkedList.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/linked_list/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/linked_list/Node.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/templates/maxTemplate.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/templates/matrixInt.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/templates/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pointers/pointers.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pointers/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/date/Date.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/date/Date.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/date/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/date/CMakeLists.txt" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.6/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.6/include-fixed" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.6/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.6/include-fixed" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
